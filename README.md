@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nguyen Ngo Thanh Truc
 - 👀 I’m interested in developing web and mobile application
 - 🌱 I’m currently learning computer science at HCM University of Technology, Viet Nam (BKU)
-- 💞️ I’m looking to collaborate on Javascript
 - 📫 Reach me via email here: truccm2001@gmail.com
 
 ### Languages and Tools:

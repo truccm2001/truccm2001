@@ -19,7 +19,6 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=truccm2001)](https://github.com/truccm2001/github-readme-stats)
 
 
 

@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning computer science at HCM University of Technology, Viet Nam (BKU)
 - 📫 Reach me via email here: truccm2001@gmail.com
 
+### Community:
+
+- [LeetCode](https://leetcode.com/truccm2001/) 
+- [freeCodeCamp](https://www.freecodecamp.org/truccm2001)
+
 ### Languages and Tools:
 
 
